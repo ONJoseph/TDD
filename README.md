@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="./testing.png" alt="logo" width="140"  height="auto" />
+  <img src="./tests.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h2><b>TDD</b></h2>
@@ -36,7 +36,7 @@
 
 # 📖 TDD <a name="about-project"></a>
 
-**TDD** is a project, I implement a class with some methods, to do it by doing test-driven development (TDD). The idea was to write tests first and then the code.
+**TDD** is a project implemented using a class with some methods, executed by doing test-driven development (TDD). The idea was to write tests first and then the code.
 
  <!-- <img src="#" alt="app-demo" /> -->
 
@@ -87,7 +87,7 @@ This repository might include files with plain SQL that can be used to recreate 
 Clone this repository to your desired folder:
 
 ```sh
-git clone https://github.com/HunterX-7/TDD.git
+git clone https://github.com/ONJoseph/TDD.git
 ```
 
 - Access the cloned directory with:
@@ -144,7 +144,7 @@ rspec
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/HunterX-7/TDD/issues).
+Feel free to check the [issues page](https://github.com/ONJoseph/TDD/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
